@@ -1,0 +1,38 @@
+_repo: The-man-with-the-iron-mask_70207
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vizetelly, Henry
+    aliases:
+    - Brooks, J. Tyrwhitt, M.D.
+    - Vizettelly, Henry Richard
+    - Vizetelly, H. (Henry)
+    birthdate: 1820
+    deathdate: 1894
+    gutenberg_agent_id: '4768'
+    url: http://www.gutenberg.org/2009/agents/4768
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Vizetelly
+creator:
+  author:
+    agent_name: Topin, Marius
+    gutenberg_agent_id: '55653'
+    url: http://www.gutenberg.org/2009/agents/55653
+description: ''
+gutenberg_issued: '2023-03-05'
+identifiers:
+  gutenberg: '70207'
+language: en
+pgterms:marc904: https://archive.org/details/manwithironmask00topiuoft
+pgterms:marc905: 20201202074653topin
+pgterms:marc906: '1870'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bSmith, Elder & Co, $c1870.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The man with the iron mask
+url: http://www.gutenberg.org/ebooks/70207
