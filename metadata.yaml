@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '4768'
     url: http://www.gutenberg.org/2009/agents/4768
     wikipedia: https://en.wikipedia.org/wiki/Henry_Vizetelly
+covers:
+- cover_type: archival
+  image_path: 70207-h/images/cover.jpg
 creator:
   author:
     agent_name: Topin, Marius
     gutenberg_agent_id: '55653'
     url: http://www.gutenberg.org/2009/agents/55653
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70207#The-man-with-the-iron-mask
 gutenberg_issued: '2023-03-05'
 identifiers:
   gutenberg: '70207'
